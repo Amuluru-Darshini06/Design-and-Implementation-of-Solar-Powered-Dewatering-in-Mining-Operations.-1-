@@ -74,4 +74,5 @@ Feel free to use, modify, and share.
 * Integration with *Blynk / Node-RED / ThingsBoard* dashboards
 * Data logging to SD card or cloud
 * Automatic pump scheduling
-
+## PROTOTYPE IMAGE 
+![Image](https://github.com/user-attachments/assets/1aada7f6-d746-4d1b-b033-aa9205dbd7a9)
