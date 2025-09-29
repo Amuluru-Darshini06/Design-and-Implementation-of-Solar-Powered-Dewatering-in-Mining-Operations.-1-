@@ -1,4 +1,4 @@
-# Design-and-Implementation-of-Solar-Powered-Dewatering-in-Mining-Operations.-1-
+# Design-and-Implementation-of-Solar-Powered-Dewatering-in-Mining-Operations.
 
 # Solar-Powered Dewatering System (ESP8266/NodeMCU)
 
@@ -74,5 +74,10 @@ Feel free to use, modify, and share.
 * Integration with *Blynk / Node-RED / ThingsBoard* dashboards
 * Data logging to SD card or cloud
 * Automatic pump scheduling
-## PROTOTYPE IMAGE 
+## Prototype Image
 ![Image](https://github.com/user-attachments/assets/1aada7f6-d746-4d1b-b033-aa9205dbd7a9)
+
+----
+
+## Demo video 
+https://youtu.be/ixLTgRtjCVU
